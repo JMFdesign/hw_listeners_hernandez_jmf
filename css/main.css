@@ -535,11 +535,11 @@ label,
 textarea {
     font-family: Helvetica, sans-serif;
     display: block;
-    color: white;
 }
 
 label {
     margin-bottom: 1rem;
+    color: white;
 }
 
 form {
