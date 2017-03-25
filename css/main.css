@@ -521,3 +521,33 @@ a:hover {
 .list-style1 a {
     color: #7F7F7F;
 }
+
+/* -- Form Styling -- */
+
+form,
+input,
+label,
+textarea {
+    font-family: Helvetica, sans-serif;
+    display: block;
+}
+
+form {
+    margin: 0 1.25rem;
+}
+
+input,
+textarea {
+    margin-bottom: 3.0rem;
+}
+
+.ctr {
+    margin: auto;
+}
+
+.ctr h3 {
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 3.0rem;
+    border-bottom: black thin solid;
+}
