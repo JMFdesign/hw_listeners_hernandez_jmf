@@ -559,3 +559,12 @@ a:hover {
 .cust .post .links a:hover {
     color: orange;
 }
+
+/* -- Listeners -- */
+
+.growing {
+    font-size: 6rem;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
