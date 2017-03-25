@@ -4,7 +4,8 @@ body {
     background: #050505 url(../img/img01.jpg) repeat;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    color: #5B5B5B;
+    color: #5b5b5b;
+    background-color: green;
 }
 
 h1, h2, h3 {
