@@ -17,7 +17,7 @@ secretMessage.addEventListener('click', function(eventInfo) {
 
 // Listening for Double Click - Change font and size of entry <p> when event occurs
 
-var colorChange1 = document.getElementsByTagName('p')[1];
+var colorChange = document.getElementsByTagName('p')[1];
 
 colorChange.addEventListener('dblclick', function() {
     colorChange.className = 'changing';
