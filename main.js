@@ -12,5 +12,5 @@ var secretMessage = document.getElementsByClassName('links')[0].children[0];
 
 secretMessage.addEventListener('click', function(eventInfo) {
     eventInfo.preventDefault();
-    console.log('Just keep swimming, just keep swimming... Swimming, swimming, swimming...')
+    console.log('Just keep swimming, just keep swimming... Swimming, swimming, swimming...');
 });
