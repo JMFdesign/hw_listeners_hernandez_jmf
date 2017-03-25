@@ -520,3 +520,42 @@ a:hover {
 .list-style1 a {
     color: #7F7F7F;
 }
+
+/* -- Custom Branch -- */
+
+.cust {
+    background-color: #333333;
+    padding: 1.25rem 0;
+}
+
+.container h3 {
+    font-size: 3rem;
+    text-align: center;
+    color: #cccccc;
+    margin-bottom: 3rem;
+    border-bottom: white thin solid;
+}
+
+.cust .post {
+    margin: 3rem;
+}
+
+.cust h2.title a {
+    color: #999999;
+}
+
+.cust .post span {
+    color: orange;
+}
+
+.cust .post .entry p {
+    color: #ffffff;
+}
+
+.cust .post .links a {
+    color: #999999;
+}
+
+.cust .post .links a:hover {
+    color: orange;
+}
