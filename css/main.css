@@ -524,12 +524,22 @@ a:hover {
 
 /* -- Form Styling -- */
 
+.frm {
+    background-color: #333333;
+    padding: 1.25rem 0;
+}
+
 form,
 input,
 label,
 textarea {
     font-family: Helvetica, sans-serif;
     display: block;
+    color: white;
+}
+
+label {
+    margin-bottom: 1rem;
 }
 
 form {
@@ -538,7 +548,16 @@ form {
 
 input,
 textarea {
-    margin-bottom: 3.0rem;
+    margin-bottom: 3rem;
+}
+
+.submit {
+    color: #333333;
+}
+
+.submit:hover {
+    color: green;
+    font-weight: bold;
 }
 
 .ctr {
@@ -548,6 +567,7 @@ textarea {
 .container h3 {
     font-size: 3rem;
     text-align: center;
+    color: white;
     margin-bottom: 3rem;
-    border-bottom: black thin solid;
+    border-bottom: white thin solid;
 }
