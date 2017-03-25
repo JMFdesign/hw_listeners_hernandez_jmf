@@ -542,12 +542,12 @@ textarea {
 }
 
 .ctr {
-    margin: auto;
+    margin-left: 27%;
 }
 
-.ctr h3 {
+.container h3 {
     font-size: 3rem;
     text-align: center;
-    margin-bottom: 3.0rem;
+    margin-bottom: 3rem;
     border-bottom: black thin solid;
 }
